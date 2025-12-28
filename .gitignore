@@ -1,13 +1,12 @@
 # Ignore Jupyter checkpoint files
-.ipynb_checkpoints/
+
 
 # Ignore Python cache
 __pycache__/
 *.pyc
 
 # Ignore data folders
-data/raw/
-data/processed/
+
 
 # Ignore virtual environment
 venv/
